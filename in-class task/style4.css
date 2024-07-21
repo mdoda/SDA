@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(96, 142, 116);
+  }
+table{
+    width: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th, td {
+        border-bottom: 1px solid #ddd;
+      }
+th {
+     background-color: rgb(28, 71, 42);
+     color: black;
+      }
+h1 {
+    color: white;
+    text-align: left;
+    background-color: rgb(28, 71, 42);
+      }
+h2 {
+    color: white;
+    text-align: left;
+    background-color: rgb(28, 71, 42);
+  }
+  p1, p2, p3 {
+    border-bottom: 1px solid #ddd;
+  }
+img {
+    width: 30%
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+  }
+  /* li {
+    margin: 20px;
+    padding: 20px;
+  } */
+  /* .y {
+    float: left;
+    display: flex;
+    padding: 14px 20px;
+  } */
